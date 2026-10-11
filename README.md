@@ -70,6 +70,14 @@ Open the release, download its APK asset, and follow your device's installation 
 
 ---
 
+## 🔗 Related website resources
+
+- [Free Fire colour code list](https://ffbiocodes.com/free-fire-colour-code-list-2026/) for profile bio colours.
+- [FF Name Style generator](https://ffbiocodes.com/ff-name-style/) for the separate nickname field.
+- [Unicode nickname guide](https://github.com/ayan-act/free-fire-nickname-style-guide) for understanding copied name characters.
+
+---
+
 ## 🔎 Release verification and support
 
 [Release verification](RELEASE_VERIFICATION.md) records the APK checksum, signing-certificate fingerprint, and declared permissions for v1.0.0. Report app issues through [GitHub Issues](https://github.com/ayan-act/FF-Bio-Code/issues) or the [contact page](https://ffbiocodes.com/contact-us/). For website and data-handling information, read the [privacy policy](https://ffbiocodes.com/privacy-policy/). Do not post account credentials or private data in a public issue.
